@@ -25,3 +25,8 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+
+
+nav:
+  - Главная: index.md
+  - API Sidecraft: api_sidecraft.md
